@@ -1,0 +1,18 @@
+package Test;
+
+public class Example01 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * ------------출력 예시--------------
+		 * 이름 : 이아름
+		 * 나이 : 32
+		 * 주소 : 서울시 강동구
+		 * 몸무게 : 
+		 */
+	 
+
+	}
+
+}

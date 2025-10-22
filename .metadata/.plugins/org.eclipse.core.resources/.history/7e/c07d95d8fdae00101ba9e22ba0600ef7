@@ -1,0 +1,38 @@
+package Test;
+
+public class Example01 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * ------------출력 예시--------------
+		 * 이름 : 이아름 : name
+		 * 나이 : 32 : age
+		 * 주소 : 서울시 강동구 :address
+		 * 몸무게 :          : weight
+		 */
+	 
+		
+		String name = "이아름";
+		System.out.println("이름 : " + name);
+		
+		int age  : "32"
+		System.out.println("나이 : " + age);
+		
+
+	}
+
+}
+/*
+ * //int iNum2 =5; int iNum3 =2;
+ * 
+ * dNum = iNum2 / iNum3; //5/2 System.out.println("dNum : " + dNum);
+ * 
+ * dNum = (double)iNum2 / iNum3; // 5.0 / 2 System.out.println("dNum : " +
+ * dNum);
+ * 
+ * dNum = iNum2 / (double)iNum3; // 5/ 2.0 System.out.println("dNum : " + dNum);
+ * 
+ * dNum = (double)iNum2 / (double)iNum3; // 5.0 / 2 System.out.println("dNum : "
+ * + dNum);
+ */
